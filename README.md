@@ -55,8 +55,16 @@ Production-style veterinary management application covering owners, pets, vets a
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-suryawanshi" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://twitter.com/aftermoonn____" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aftermoonn____" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/aftermoon07" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aftermoon07" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank">
+    <img align="center" src="https://static.naukimg.com/s/4/100/i/naukri_Logo.png" alt="naukri" height="30" width="80" />
   </a>
 </p>
 
