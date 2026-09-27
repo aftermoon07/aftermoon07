@@ -48,6 +48,13 @@ Production-style veterinary management application covering owners, pets, vets a
 
 ---
 
+### 🚀 [HirePro](https://github.com/aftermoon07/hirepro)
+`Next.js 15` `Node.js` `Express` `MongoDB Atlas` `Google Gemini AI` `Auth0` `TypeScript`
+
+Full-stack AI-powered job platform covering the complete hiring lifecycle — from job discovery to application to interview prep. Job seekers can search and filter roles by type, salary, skills, and tags; employers can post jobs with a rich-text WYSIWYG editor and one-click recommended skill/tag chips. Includes an **AI mock interview** module powered by Google Gemini that generates role-specific Q&A pairs, records voice answers via the Web Speech API, and returns per-answer scores + detailed feedback. Auth0-secured throughout, backed by MongoDB Atlas with a 5-collection schema, and a REST API with **20+ endpoints** across jobs, interviews, users, and reviews.
+
+---
+
 ## 🤝 Connect with me
 
 <p align="left">
@@ -84,6 +91,7 @@ Production-style veterinary management application covering owners, pets, vets a
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;&nbsp;
