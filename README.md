@@ -27,17 +27,17 @@
 
 ## 🚀 Featured Projects
 
-### 💰 [WealthOS](https://github.com/aftermoon07/WealthOS)
+### 💰 [WealthOS](https://github.com/aftermoon07/WealthOS) · [🌐 Live Demo](https://wealth-os-app.vercel.app/)
 `Python` `FastAPI` `Next.js 15` `SQLite` `Gemini API` `SQLAlchemy`
 
 AI-powered personal finance & portfolio analyst. Built a deterministic Python financial engine for XIRR, net worth and portfolio returns — keeping Gemini limited to interpreting pre-computed data, not calculating it. Features a 7-table SQLAlchemy schema, 9-tool AI tool-calling layer, and a 12-month synthetic demo dataset. Validated with **46 deterministic tests** and **0 behavioral/API regressions** after architecture cleanup.
 
 ---
 
-### 🌐 [Web Browser Query Agent](https://github.com/aftermoon07/Web-Browser-Agent)
-`Python` `FastAPI` `Playwright` `Next.js` `Gemini API`
+### 🚀 [HirePro](https://github.com/aftermoon07/hirepro) · [🌐 Live Demo](https://hirepro-hazel.vercel.app/)
+`Next.js 15` `Node.js` `Express` `MongoDB Atlas` `Google Gemini AI` `Auth0` `TypeScript`
 
-AI browser automation agent with a semantic result cache using sentence-transformer embeddings (0.75 cosine-similarity threshold) to avoid redundant scraping. Playwright-based Google search with Bing fallback and selector-performance tracking. Exposes **9+ REST endpoints** via FastAPI connected to a Next.js interface for end-to-end query execution.
+Full-stack AI-powered job platform covering the complete hiring lifecycle — from job discovery to application to interview prep. Job seekers can search and filter roles by type, salary, skills, and tags; employers can post jobs with a rich-text WYSIWYG editor and one-click recommended skill/tag chips. Includes an **AI mock interview** module powered by Google Gemini that generates role-specific Q&A pairs, records voice answers via the Web Speech API, and returns per-answer scores + detailed feedback. Backed by MongoDB Atlas with a 5-collection schema and a REST API with **20+ endpoints** across jobs, interviews, users, and reviews.
 
 ---
 
@@ -48,10 +48,10 @@ Production-style veterinary management application covering owners, pets, vets a
 
 ---
 
-### 🚀 [HirePro](https://github.com/aftermoon07/hirepro)
-`Next.js 15` `Node.js` `Express` `MongoDB Atlas` `Google Gemini AI` `Auth0` `TypeScript`
+### 🌐 [Web Browser Query Agent](https://github.com/aftermoon07/Web-Browser-Agent)
+`Python` `FastAPI` `Playwright` `Next.js` `Gemini API`
 
-Full-stack AI-powered job platform covering the complete hiring lifecycle — from job discovery to application to interview prep. Job seekers can search and filter roles by type, salary, skills, and tags; employers can post jobs with a rich-text WYSIWYG editor and one-click recommended skill/tag chips. Includes an **AI mock interview** module powered by Google Gemini that generates role-specific Q&A pairs, records voice answers via the Web Speech API, and returns per-answer scores + detailed feedback. Auth0-secured throughout, backed by MongoDB Atlas with a 5-collection schema, and a REST API with **20+ endpoints** across jobs, interviews, users, and reviews.
+AI browser automation agent with a semantic result cache using sentence-transformer embeddings (0.75 cosine-similarity threshold) to avoid redundant scraping. Playwright-based Google search with Bing fallback and selector-performance tracking. Exposes **9+ REST endpoints** via FastAPI connected to a Next.js interface for end-to-end query execution.
 
 ---
 
@@ -84,8 +84,11 @@ Full-stack AI-powered job platform covering the complete hiring lifecycle — fr
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
