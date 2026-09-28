@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Suryawanshi</h1>
-<h3 align="center">Software Engineer · Backend & AI Systems · IIIT Pune</h3>
+<h3 align="center">Software Engineer · Full-Stack, Backend & AI · IIIT Pune</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aftermoon07&label=Profile%20views&color=0e75b6&style=flat" alt="aftermoon07" />
