@@ -27,6 +27,20 @@
 
 ## 🚀 Featured Projects
 
+### 🎓 [TNP Placement Portal](https://github.com/aftermoon07/TNP) · [🌐 Live Demo](https://tnp-pearl.vercel.app/)
+`Next.js 15` `TypeScript` `Supabase` `PostgreSQL` `Google Gemini` `OpenAI` `VAPI` `Tailwind CSS`
+
+AI-powered Training & Placement management platform for students, mentors, and recruiters. Built with an **AI Resume Builder**, **ATS Score Analyzer**, and automated career roadmap generator. Integrates **AI-driven voice mock interviews** via VAPI, an interactive browser-based code playground, real-time quizzes with competitive leaderboards, and an end-to-end recruiter job portal backed by Supabase PostgreSQL.
+
+---
+
+### 🔥 [FirePredict: Wildfire Risk Forecasting](https://github.com/aftermoon07/Forest_fire_prediction) · [🌐 Live Demo](https://forest-fire-prediction-six.vercel.app/)
+`PyTorch` `CNN-LSTM-UNet` `React` `Vite` `Flask` `Geospatial AI` `Tailwind CSS`
+
+Spatiotemporal deep learning pipeline predicting localized wildfire risk probability grids across multi-horizon forecasts (+1h, +2h, +3h) for the Uttarakhand region. Combines ERA5 atmospheric reanalysis, DEM topography, and LULC fuel data using a hybrid CNN-LSTM-UNet architecture. Features an interactive geospatial analysis dashboard in React & Vite with multi-horizon inspection and real-time inference via a Flask REST API.
+
+---
+
 ### 💰 [WealthOS](https://github.com/aftermoon07/WealthOS) · [🌐 Live Demo](https://wealth-os-app.vercel.app/)
 `Python` `FastAPI` `Next.js 15` `SQLite` `Gemini API` `SQLAlchemy`
 
@@ -100,7 +114,9 @@ AI browser automation agent with a semantic result cache using sentence-transfor
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://playwright.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/></a>
 </p>
 
 ---
